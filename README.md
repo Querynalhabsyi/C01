@@ -1,7 +1,7 @@
-## TIM C01
+# RSC Batch I - Class C01
 
-# Fathiah 
-# Gilang Ramadhan
-# Eka Pradipa Nata
-# Grace Gabriela Maneking
-# Gracia Ardina Wijaya
+## Gilang Ramadhan
+## Fathiah 
+## Eka Pradipa Nata
+## Grace Gabriela Maneking
+## Gracia Ardina Wijaya
